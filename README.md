@@ -1,4 +1,4 @@
 # php_23
 ## primeiro commit. 
-### teste
+### teste.
 ### mais um
