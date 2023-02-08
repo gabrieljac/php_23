@@ -1,4 +1,4 @@
-# php_23
+# php_23123
 ## primeiro commit.1111111111111 
 ### teste.
 ### mais um
@@ -24,4 +24,4 @@ hello
 git checkout  main
 git pull obter as atualizaçoes
 git merge nome da branch para trazer as mudanças
-se der conflito git add . e git commit -m "com a msg"
+se der conflito git add . e git commit -m "com a msg"123
