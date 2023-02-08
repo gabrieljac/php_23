@@ -23,3 +23,4 @@
 git checkout  main
 git pull obter as atualizaçoes
 git merge nome da branch para trazer as mudanças
+se der conflito git add . e git commit -m "com a msg"
