@@ -2,6 +2,7 @@
 ## primeiro commit.1111111111111 
 ### teste.
 ### mais um
+hello
 1 verificar se estamos no ubunto na parte inferior esquerda do visualcode
 2 file open folder var/www/html/
 3 terminal git clone
