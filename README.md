@@ -20,3 +20,6 @@
 666666666
 # 77777777
 888888888
+git checkout  main
+git pull obter as atualizaçoes
+git merge nome da branch para trazer as mudanças
