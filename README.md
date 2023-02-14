@@ -14,7 +14,7 @@ hello
 9 git push 
 10 verificar no github se foi salvo 
 
-git checkout  main
+git checkout  
 git pull obter as atualizaçoes
 git merge nome da branch para trazer as mudanças
 se der conflito git add . e git commit -m "com a msg"123
